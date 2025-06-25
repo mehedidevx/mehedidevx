@@ -12,6 +12,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
+<div align="center">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
 - 👋 Hi, I’m **Md Mehedi Hasan**  
@@ -29,6 +31,9 @@
   - 📜 JavaScript  
 - 📧 **Email:** mehedi.devx@gmail.com  
 - 🎯 **Fun Fact:** I love building interactive web applications!  
+
+</div>
+
 
 
 <div align="center">
@@ -73,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedidevx&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=mehedidevx&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <div align="center">
