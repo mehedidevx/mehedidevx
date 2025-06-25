@@ -14,16 +14,21 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
-const mehedi = {
-    name: "Md Mehedi Hasan",
-    role: "💻 Frontend Developer",
-    location: "📍 Bangladesh",
-    currentlyWorking: "🚀 MERN Stack Projects",
-    currentlyLearning: ["⚛️ Advanced React", "🔗 Next.js", "🔷 TypeScript"],
-    askMeAbout: ["⚛️ React", "🖥️ Node.js", "🍃 MongoDB", "📜 JavaScript"],
-    email: "📧 mehedi.devx@gmail.com",
-    funFact: "🎯 I love building interactive web applications!"
-};
+- 👋 Hi, I’m **Md Mehedi Hasan**  
+- 💻 **Frontend Developer**  
+- 📍 **Based in Bangladesh**  
+- 🚀 **Currently working on MERN Stack Projects**  
+- 🌱 **Currently learning:**  
+  - ⚛️ Advanced React  
+  - 🔗 Next.js  
+  - 🔷 TypeScript  
+- 💬 **Ask me about:**  
+  - ⚛️ React  
+  - 🖥️ Node.js  
+  - 🍃 MongoDB  
+  - 📜 JavaScript  
+- 📧 **Email:** mehedi.devx@gmail.com  
+- 🎯 **Fun Fact:** I love building interactive web applications!  
 
 
 <div align="center">
