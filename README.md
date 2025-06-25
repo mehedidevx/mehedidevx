@@ -16,16 +16,15 @@
 
 const mehedi = {
     name: "Md Mehedi Hasan",
-    role: "Frontend Developer",
-    location: "Bangladesh",
-    currentlyWorking: "MERN Stack Projects",
-    currentlyWorking: "MERN Stack Projects",
-    currentlyWorking: "MERN Stack Projects",
-    currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
-    email: "mehedi.devx@gmail.com",
-    funFact: "I love building interactive web applications! 🚀"
+    role: "💻 Frontend Developer",
+    location: "📍 Bangladesh",
+    currentlyWorking: "🚀 MERN Stack Projects",
+    currentlyLearning: ["⚛️ Advanced React", "🔗 Next.js", "🔷 TypeScript"],
+    askMeAbout: ["⚛️ React", "🖥️ Node.js", "🍃 MongoDB", "📜 JavaScript"],
+    email: "📧 mehedi.devx@gmail.com",
+    funFact: "🎯 I love building interactive web applications!"
 };
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mehedidevx&style=for-the-badge&color=blue" alt="Profile Views" />
