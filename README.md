@@ -3,16 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Mehedi;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=200&lines=👋+Hi+there!+I'm+Mehedi;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
 
-<div align="center">
+
+
+<div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
@@ -22,8 +20,7 @@
 - 🚀 **Currently working on MERN Stack Projects**  
 - 🌱 **Currently learning:**  
   - ⚛️ Advanced React  
-  - 🔗 Next.js  
-  - 🔷 TypeScript  
+  - 🔗 Next.js   
 - 💬 **Ask me about:**  
   - ⚛️ React  
   - 🖥️ Node.js  
