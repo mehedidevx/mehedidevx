@@ -26,7 +26,8 @@
   - 🖥️ Node.js  
   - 🍃 MongoDB  
   - 📜 JavaScript  
-- 📧 **Email:** mehedi.devx@gmail.com  
+- 📧 **Email:** mehedi.devx@gmail.com
+- 📱 **WhatsApp:** +8801780524217  
 - 🎯 **Fun Fact:** I love building interactive web applications!  
 
 </div>
