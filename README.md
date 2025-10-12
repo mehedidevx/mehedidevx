@@ -36,7 +36,7 @@ class Developer {
     this.location = "Rangpur, Bangladesh 🇧🇩";
     this.workingOn = "Enterprise-grade MERN Applications";
     this.learning = ["System Design", "Microservices"];
-    this.askMeAbout = ["React", "Next.js", "TypeScript", "Node.js"];
+    this.askMeAbout = ["React", "Next.js", "TypeScript"];
   }
   
   get skillset() {
