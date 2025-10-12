@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+Future+of+Web+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%E2%9C%A8;Full-Stack+Innovation+Meets+Design+%F0%9F%8E%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Building+the+Future+of+Web+;Transforming+Ideas+into+Reality+;Full-Stack+Innovation+Meets+Design+" alt="Typing Animation" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
 <div align="center">
@@ -17,7 +17,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mehedidevx&style=flat-square&color=3b82f6&label=Profile%20Views)](https://github.com/mehedidevx)
 [![GitHub Followers](https://img.shields.io/github/followers/mehedidevx?style=flat-square&color=10b981&labelColor=1e293b&label=Followers&logo=github&logoColor=white)](https://github.com/mehedidevx?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mehedidevx?style=flat-square&color=f59e0b&labelColor=1e293b&label=Stars&logo=github&logoColor=white)](https://github.com/mehedidevx)
-[![Wakatime](https://wakatime.com/badge/user/mehedidevx.svg?style=flat-square)](https://wakatime.com/@mehedidevx)
 
 </div>
 
@@ -25,9 +24,9 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```javascript
 class Developer {
@@ -36,28 +35,28 @@ class Developer {
     this.title = "Frontend Architect";
     this.location = "Rangpur, Bangladesh 🇧🇩";
     this.workingOn = "Enterprise-grade MERN Applications";
-    this.learning = ["System Design", "Microservices", "Cloud Architecture"];
+    this.learning = ["System Design", "Microservices"];
     this.askMeAbout = ["React", "Next.js", "TypeScript", "Node.js"];
   }
-
+  
   get skillset() {
     return {
-      languages: ["JavaScript", "TypeScript", "Python"],
+      languages: ["JavaScript", "TypeScript"],
       frontend: {
-        frameworks: ["React 18+", "Next.js 14", "Vue 3"],
-        styling: ["Tailwind CSS", "Styled Components", "SASS"],
-        stateManagement: ["Redux Toolkit", "Zustand", "React Query"]
+        frameworks: ["React", "Next.js"],
+        styling: ["Tailwind CSS", "Bootstrap", "DaisyUI"],
+        stateManagement: ["Context API", "React Query"]
       },
       backend: {
-        runtime: ["Node.js", "Express", "NestJS"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        authentication: ["JWT", "OAuth 2.0", "Passport.js"]
+        runtime: ["Node.js", "Express"],
+        databases: ["MongoDB", "Firebase"],
+        authentication: ["JWT", "Firebase Auth"]
       },
-      devOps: ["Docker", "AWS", "Vercel", "GitHub Actions"],
+      devOps: ["Vercel", "Netlify", "Firebase Hosting"],
       tools: ["Git", "VS Code", "Postman", "Figma"]
     };
   }
-
+  
   get currentFocus() {
     return [
       "🎯 Building production-ready SaaS platforms",
@@ -66,7 +65,7 @@ class Developer {
       "🤝 Mentoring aspiring developers"
     ];
   }
-
+  
   contact() {
     return {
       email: "mehedi.devx@gmail.com",
@@ -82,7 +81,7 @@ console.log(mehedi.currentFocus);
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -93,17 +92,27 @@ console.log(mehedi.currentFocus);
 ```yaml
 🚀 Status: Building & Shipping
 💼 Role: Full-Stack Developer
-🎓 Focus: React Ecosystem
-📍 Based: Rangpur, BD
-⚡ Superpower: Clean Code
+🎓 Focus: React & Next.js Ecosystem
+📍 Location: Rangpur, Bangladesh
+⚡ Superpower: Clean Code & Problem Solving
+🎯 Mission: Building Scalable Web Solutions
+💡 Philosophy: Code with Purpose, Design with Passion
 ```
 
-### 📊 Quick Stats
+### 📊 Development Journey
 
-**500+** Commits This Year  
-**50+** Repositories  
-**20+** Projects Completed  
-**10+** Happy Clients  
+**800+** Commits This Year  
+**60+** Public Repositories  
+**25+** Projects Completed  
+**15+** Team Collaborations  
+**10+** Open Source Contributions  
+**5+** Active Projects  
+**3+** Years of Coding Experience  
+**100%** Passion for Web Development  
+
+### 🎨 What Drives Me
+
+**Problem Solving** • **Clean Architecture** • **User Experience**
 
 </div>
 
