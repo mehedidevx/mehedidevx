@@ -59,10 +59,10 @@ class Developer {
   
   get currentFocus() {
     return [
-      "🎯 Building production-ready SaaS platforms",
-      "📚 Mastering design patterns and architecture",
-      "🌟 Contributing to impactful open source projects",
-      "🤝 Mentoring aspiring developers"
+      "🎯Building production-ready SaaS platforms",
+      "📚Mastering design patterns and architecture",
+      "🌟Contributing to impactful open source projects",
+      "🤝Mentoring aspiring developers"
     ];
   }
   
