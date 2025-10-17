@@ -108,11 +108,6 @@ console.log(mehedi.currentFocus);
 **5+** Active Projects  
 **3+** Years of Coding Experience  
 **100%** Passion for Web Development  
-
-### 🎨 What Drives Me
-
-**Problem Solving** • **Clean Architecture** • **User Experience**
-
 </div>
 
 </td>
