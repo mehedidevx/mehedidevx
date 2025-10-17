@@ -26,7 +26,7 @@
 
 <table style="table-layout: fixed; width: 100%;">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ```javascript
 class Developer {
@@ -80,7 +80,7 @@ console.log(mehedi.currentFocus);
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <div align="center">
 
