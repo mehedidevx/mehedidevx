@@ -55,24 +55,24 @@ get skillset() {
    tools: ["Git", "VS Code", "Postman", "Figma"]
   };
 }
+
+get currentFocus() {
+ return [
+ "🎯Building production-ready SaaS platforms",
+ "📚Mastering design patterns and architecture",
+ "🌟Contributing to impactful source projects",
+ "🤝Mentoring aspiring developers"
+];
+}
   
-  get currentFocus() {
-    return [
-      "🎯Building production-ready SaaS platforms",
-      "📚Mastering design patterns and architecture",
-      "🌟Contributing to impactful open source projects",
-      "🤝Mentoring aspiring developers"
-    ];
-  }
-  
-  contact() {
-    return {
-      email: "mehedi.devx@gmail.com",
-      whatsapp: "+8801780524217",
-      portfolio: "Coming Soon",
-      availability: "Open for opportunities"
-    };
-  }
+contact() {
+ return {
+ email: "mehedi.devx@gmail.com",
+ whatsapp: "+8801780524217",
+ portfolio: "Coming Soon",
+ availability: "Open for opportunities"
+ };
+ }
 }
 
 const mehedi = new Developer();
