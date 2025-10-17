@@ -30,32 +30,31 @@
 
 ```javascript
 class Developer {
-  constructor() {
-    this.name = "Md Mehedi Hasan";
-    this.title = "Frontend Architect";
-    this.location = "Rangpur, Bangladesh 🇧🇩";
-    this.workingOn = "Enterprise-grade MERN Applications";
-    this.learning = ["System Design", "Microservices"];
-    this.askMeAbout = ["React", "Next.js", "TypeScript"];
-  }
-  
-  get skillset() {
-    return {
-      languages: ["JavaScript", "TypeScript"],
-      frontend: {
-        frameworks: ["React", "Next.js"],
-        styling: ["Tailwind CSS", "Bootstrap", "DaisyUI"],
-        stateManagement: ["Context API", "React Query"]
-      },
-      backend: {
-        runtime: ["Node.js", "Express"],
-        databases: ["MongoDB", "Firebase"],
-        authentication: ["JWT", "Firebase Auth"]
-      },
-      devOps: ["Vercel", "Netlify", "Firebase Hosting"],
-      tools: ["Git", "VS Code", "Postman", "Figma"]
-    };
-  }
+constructor() {
+ this.name = "Md Mehedi Hasan";
+ this.title = "Frontend Architect";
+ this.location = "Rangpur, Bangladesh 🇧🇩";
+ this.workingOn = "Enterprise-grade MERN Applications";
+ this.learning = ["System Design", "Microservices"];
+ this.askMeAbout = ["React", "Next.js", "TypeScript"];
+ }
+get skillset() {
+ return {
+  languages: ["JavaScript", "TypeScript"],
+  frontend: {
+   frameworks: ["React", "Next.js"],
+   styling: ["Tailwind CSS", "Bootstrap", "DaisyUI"],
+   stateManagement: ["Context API", "React Query"]
+ },
+ Backend: {
+   runtime: ["Node.js", "Express"],
+   databases: ["MongoDB", "Firebase"],
+   authentication: ["JWT", "Firebase Auth"]
+  },
+  devOps: ["Vercel", "Netlify", "Firebase Hosting"],
+   tools: ["Git", "VS Code", "Postman", "Figma"]
+  };
+}
   
   get currentFocus() {
     return [
