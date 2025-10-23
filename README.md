@@ -22,71 +22,15 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<table style="table-layout: fixed; width: 100%;">
-<tr>
-<td width="30%" valign="top">
-
-```javascript
-class Developer {
-constructor() {
- this.name = "Md Mehedi Hasan";
- this.title = "Frontend Architect";
- this.location = "Rangpur, Bangladesh 🇧🇩";
- this.workingOn = "Enterprise-grade MERN Applications";
- this.learning = ["System Design", "Microservices"];
- this.askMeAbout = ["React", "Next.js", "TypeScript"];
- }
-get skillset() {
- return {
-  languages: ["JavaScript", "TypeScript"],
-  frontend: {
-   frameworks: ["React", "Next.js"],
-   styling: ["Tailwind CSS", "Bootstrap", "DaisyUI"],
-   stateManagement: ["Context API", "React Query"]
- },
- Backend: {
-   runtime: ["Node.js", "Express"],
-   databases: ["MongoDB", "Firebase"],
-   authentication: ["JWT", "Firebase Auth"]
-  },
-  devOps: ["Vercel", "Netlify", "Firebase Hosting"],
-   tools: ["Git", "VS Code", "Postman", "Figma"]
-  };
-}
-
-get currentFocus() {
- return [
- "🎯Building production-ready SaaS platforms",
- "📚Mastering design patterns and architecture",
- "🌟Contributing to impactful source projects",
- "🤝Mentoring aspiring developers"
-];
-}
+<div align="center" >
   
-contact() {
- return {
- email: "mehedi.devx@gmail.com",
- whatsapp: "+8801780524217",
- portfolio: "Coming Soon",
- availability: "Open for opportunities"
- };
- }
-}
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50%">
 
-const mehedi = new Developer();
-console.log(mehedi.currentFocus);
-```
+</div>
 
-</td>
-<td width="60%" valign="top">
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
-
-### 🎯 Current Status
+## 🎯 Current Status
 
 ```yaml
 🚀 Status: Building & Shipping
@@ -98,21 +42,92 @@ console.log(mehedi.currentFocus);
 💡 Philosophy: Code with Purpose, Design with Passion
 ```
 
-### 📊 Development Journey
 
-**800+** Commits This Year  
-**60+** Public Repositories  
-**25+** Projects Completed  
-**15+** Team Collaborations  
-**10+** Open Source Contributions  
-**5+** Active Projects  
-**3+** Years of Coding Experience  
-**100%** Passion for Web Development  
+## 🛠️ Technical Arsenal
+
+### 💻 Frontend Development
+```javascript
+const frontendSkills = {
+  markup: ['HTML5', 'CSS3'],
+  languages: ['JavaScript', 'TypeScript'],
+  frameworks: ['React.js', 'Next.js'],
+  styling: ['Tailwind CSS', 'DaisyUI'],
+  responsive: 'Mobile-First Design'
+};
+```
+
+### ⚙️ Backend Development
+```javascript
+const backendSkills = {
+  runtime: ['Node.js'],
+  framework: ['Express.js'],
+  database: ['MongoDB', 'Firebase'],
+  architecture: 'RESTful APIs'
+};
+```
+
+### 🔧 Development Tools
+```javascript
+const tools = {
+  versionControl: ['Git', 'GitHub'],
+  deployment: ['Vercel', 'Netlify'],
+  apis: ['REST APIs', 'Third-party Integrations'],
+  workflow: 'Agile Development'
+};
+```
+
+## 🌟 Soft Skills
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Professional Skills))
+    Team Collaboration
+      Team-work
+      Leadership
+    Technical Excellence
+      Problem-Solving
+      Critical Thinking
+    Personal Growth
+      Adaptability
+      Communication
+```
+
 </div>
 
-</td>
-</tr>
-</table>
+### 🎯 Core Competencies
+
+- **🤝 Team Collaboration** - Experienced in working with cross-functional teams and leading development initiatives
+- **💡 Problem Solving** - Analytical approach to breaking down complex challenges into manageable solutions
+- **🔄 Adaptability** - Quick learner, always staying current with emerging technologies and best practices
+- **💬 Communication** - Clear technical communication with both technical and non-technical stakeholders
+- **🎓 Leadership** - Guiding team members and mentoring junior developers
+- **🧠 Critical Thinking** - Data-driven decision making and strategic planning
+
+## 🎨 What Drives Me
+
+> **"Building the web, one component at a time"**
+
+I'm passionate about creating elegant, efficient, and user-centric web applications. Every line of code I write is an opportunity to solve real-world problems and deliver exceptional digital experiences. Whether it's crafting responsive interfaces or architecting scalable backend systems, I bring dedication and precision to every project.
+
+## 📈 Current Focus
+
+- 🔭 Exploring advanced patterns in **Next.js 14+** and **React Server Components**
+- 🌱 Deep diving into **TypeScript** for type-safe applications
+- 👯 Open to collaborating on innovative **open-source projects**
+- 🎯 Building production-ready **full-stack applications**
+- 📚 Continuously learning and sharing knowledge with the developer community
+
+---
+
+<div align="center">
+
+### 💭 *"Clean code is not written by following a set of rules. Clean code is written by following a passion for craftsmanship."*
+
+**Let's build something amazing together! 🚀**
+
+</div>
 
 ---
 
